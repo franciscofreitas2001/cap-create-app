@@ -91,4 +91,4 @@ cf deploy mta_archives/yourAppMtarArchiveName.mtar
 
 Distributed under the MIT License.
 
-Project Link: [https://github.com/franciscofreitas2001/cf-create-app](https://github.com/franciscofreitas2001/cf-create-app)
+Project Link: [https://github.com/franciscofreitas2001/cap-create-app](https://github.com/franciscofreitas2001/cap-create-app)
