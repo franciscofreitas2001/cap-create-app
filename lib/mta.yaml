@@ -14,8 +14,8 @@ build-parameters:
   before-all:
     - builder: custom
       commands:
-        - npm install
-        - npx @sap/cds-dk build
+        - npm ci
+        - npx -p @sap/cds-dk cds build --production
         - npm --prefix ./app install ./app
         - npm run build --prefix ./app
 
